@@ -18,7 +18,7 @@ What does it involve?
 
 This challenge involves working with the **GitHub API** to create a *Single-Page Application (SPA)* by using HTML, CSS and Javascript, that reads specific parts of the API and displays the data in an organised way.
 
-> **GItHub API:** [https://developer.github.com/v3](https://developer.github.com/v3)
+> **GitHub API:** [https://developer.github.com/v3](https://developer.github.com/v3)
 
 We recommend you to begin with studying the **GitHub API documentation** and choosing a specific API to work with. It is completely up to you what data you choose to work with and how you want to display it, but to get you started, here are some things you could look into:
 
