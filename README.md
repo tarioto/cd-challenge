@@ -12,6 +12,12 @@ Getting started
 
 To get started with this challenge, **fork this repository**. We provided you with a *basic structure* to help you get off the ground. You can of course delete everything and start from scratch, if that's what you want.
 
+**Run the project**
+
+```sh
+npm install && npm start
+```
+
 
 What does it involve?
 -------------------
