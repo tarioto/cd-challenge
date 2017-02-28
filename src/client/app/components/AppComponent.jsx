@@ -1,17 +1,12 @@
 import React from 'react';
-import AwesomeComponent from './AwesomeComponent.jsx';
-import SongComponent from './SongComponent.jsx';
+import App from '../app';
+import Person from './Person.jsx';
 
-class AppComponent extends React.Component {
-  render() {
-    return (
-      <div>
-        <AwesomeComponent />
-        <SongComponent />
-      </div>
-    );
-  }
-}
-
+const AppComponent = () => (
+  <div>
+    {/* <App /> */}
+    <Person />
+  </div>
+);
 
 export default AppComponent;
